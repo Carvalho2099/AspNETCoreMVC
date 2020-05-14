@@ -12,7 +12,6 @@ C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
-C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
@@ -33,3 +32,4 @@ C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\carva\Documents\00-AspNetCoreMVC\Básico\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\libman.json

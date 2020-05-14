@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "materialize@1.0.0",
+      "destination": "wwwroot/lib/materialize/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "datepick@5.1.1",
+      "destination": "wwwroot/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "angular.js@1.3.4-build.3588",
+      "destination": "wwwroot/",
+      "files": [ "angular.js", "angular.min.js" ]
+    },
+    {
+      "library": "fullcalendar@4.2.0",
+      "destination": "wwwroot/lib/fullcalendar/"
+    }
+  ]
+}
